@@ -1,0 +1,16 @@
+{
+  "main": "cdv-electron-main.js",
+  "name": "com.U4A_APP_DESK_TMP.app",
+  "displayName": "U4A_APP_DESK_TMP",
+  "version": "1.0.0",
+  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "homepage": "http://cordova.io",
+  "license": "Apache-2.0",
+  "author": {
+    "name": "Apache Cordova Team",
+    "email": "dev@cordova.apache.org"
+  },
+  "dependencies": {
+    "electron-devtools-installer": "^3.2.0"
+  }
+}
